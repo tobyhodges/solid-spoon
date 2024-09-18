@@ -1,3 +1,7 @@
+---
+title: 'Information: The Carpentries Instructor Training'
+---
+
 ## General Information
 [The Carpentries](https://carpentries.org) is a community of practice centered around teaching foundational coding and data science skills to researchers worldwide. 
 This Instructor Training event is designed to prepare trainees to certify and participate as Carpentries Instructors. 
